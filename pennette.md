@@ -5,3 +5,4 @@ uova;
 pecorino;
 pepe nero;
 guanciale;
+piatto servito
